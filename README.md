@@ -6,7 +6,7 @@ An executive-grade commercial performance dashboard built in Power BI Desktop an
 ## Overview
 An executive-grade commercial performance dashboard built in Power BI Desktop and connected to a local MySQL relational database. The report evaluates revenue, cost structure, gross profit margins, and distribution channel splits.
 
-* **Live Interactive Report:** [View on Power BI Service](PASTE_YOUR_POWER_BI_URL_HERE)
+* **Live Interactive Report:** [View on Power BI Service](https://app.powerbi.com/groups/me/reports/5b7d2252-ba6f-418c-9dfa-e55c87f05bf9/abbe797c6da8da4dc678?experience=power-bi)
 
 ---
 
