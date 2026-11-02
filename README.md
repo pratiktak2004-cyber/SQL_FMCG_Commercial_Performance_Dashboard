@@ -1,6 +1,7 @@
 # SQL FMCG Commercial Performance & Trade Channel Dashboard
 
 An executive-grade commercial performance dashboard built in Power BI Desktop and connected to a local MySQL relational database. The report evaluates revenue, cost structure, gross profit margins, and distribution channel splits.
+![Dashboard Preview](Screenshot%20(259).png)
 
 ## Overview
 An executive-grade commercial performance dashboard built in Power BI Desktop and connected to a local MySQL relational database. The report evaluates revenue, cost structure, gross profit margins, and distribution channel splits.
